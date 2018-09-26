@@ -1,3 +1,3 @@
 # Mi sitio web
 
-##mi portafolio estático de promociones
+## Mi portafolio estático de promociones
